@@ -7,14 +7,14 @@ This repository contains the codes for [DeScoD-ECG: Deep Score-Based Diffusion M
 
 The deep learning models were implemented using PyTorch.
 
-
+12313456465
 # Dataset
 
 ~~~
 bash ./data/download_data.sh
 ~~~
 
-
+1323215
 # Train the model
 ~~~
 !python -W ignore main_exp.py --n_type=1
@@ -22,14 +22,14 @@ bash ./data/download_data.sh
 ~~~
 !python -W ignore main_exp.py --n_type=2
 ~~~
-
+1231456
 
 # Evaluation the model
 ~~~
 !python -W ignore eval_new.py
 ~~~
 
-
+132456
 
 ## Citing our work
 
